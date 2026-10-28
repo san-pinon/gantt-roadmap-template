@@ -1,5 +1,7 @@
 # Project Roadmap (template)
 
+**[▶ Live demo](https://san-pinon.github.io/gantt-roadmap-template/)** (with sample data)
+
 An interactive Gantt chart of project milestones. Bars are coloured by **theme** and styled by **horizon**:
 
 | Horizon | Bar style |
