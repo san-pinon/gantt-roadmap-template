@@ -44,7 +44,7 @@ The site is static (plain HTML/CSS/JS, no build step) and is hosted on GitHub Pa
 | `start` | yes | 2027-03-01 | `YYYY-MM-DD`, `YYYY-MM`, or `DD/MM/YYYY` (see `slashDateOrder` in config.js) |
 | `end` | | 2027-07-15 | Leave empty for a single-date milestone (◆). |
 | `owner` | | Student | |
-| `status` | | planned / in progress / done / delayed | |
+| `status` | | planned / in progress / done / delayed | Done items are grouped in a collapsible row at the top of each group |
 | `notes` | | Submit by early March | Shown when you click a milestone. |
 
 If a row can't be read (for example a bad date), the site shows a warning naming that row.
