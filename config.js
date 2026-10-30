@@ -3,6 +3,9 @@ window.GANTT_CONFIG = {
   title: "Project Roadmap",
   subtitle: "Short-, medium- and long-term milestones, by theme",
 
+  // Optional line shown above the filters. Leave empty to hide it.
+  description: "",
+
   // Google Sheet published as CSV (File → Share → Publish to web → CSV).
   // Leave empty to use the sample data in data/sample-milestones.csv.
   sheetCsvUrl: "",
